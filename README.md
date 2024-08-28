@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 📌 skills
+- Programming languages 👨‍💻
+![Python]
+![Javascript]
+![Html]
+![Css]
+- Frontend 🐥
+![Bootstrap]
+![React]
+![Node js]
+- Backend 🍗
+![Flask]
+![Fast API]
+- Web scraping 🕸
+![Requests]
+![BeautifulSoup]
+![Selenium]
+- Databases ⚾
+![MySQL]
