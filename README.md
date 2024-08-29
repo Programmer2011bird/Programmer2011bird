@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 ![Curl](https://img.shields.io/badge/curl-1?style=flat&logo=curl&logoColor=lightblue&labelColor=black&color=grey)
 - Databases ⚾ : 
 ![MySQL](https://img.shields.io/badge/mysql-1?style=flat&logo=mysql&labelColor=black&color=grey)
+- Machine Learning 🤖 :
+![Pytorch](https://img.shields.io/badge/pytorch-1?style=flat&logo=pytorch&labelColor=black&color=grey)
 - Other Tools 🔨 : 
 ![GitHub](https://img.shields.io/badge/github-1?style=flat&logo=github&labelColor=black&color=darkblue)
 ![Git](https://img.shields.io/badge/git-1?style=flat&logo=git&labelColor=black&color=darkblue)
