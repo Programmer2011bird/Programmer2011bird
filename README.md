@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 ![Fast API](https://img.shields.io/badge/fastapi-1?style=flat&logo=fastapi&labelColor=black&color=grey)
 - Web scraping 🕸 : 
 ![Selenium](https://img.shields.io/badge/selenium-1?style=flat&logo=selenium&labelColor=black&color=grey)
+![Requests](https://img.shields.io/badge/requests-1?color=grey)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-1?color=grey)
 ![Curl](https://img.shields.io/badge/curl-1?style=flat&logo=curl&logoColor=lightblue&labelColor=black&color=grey)
 - Databases ⚾ : 
 ![MySQL](https://img.shields.io/badge/mysql-1?style=flat&logo=mysql&labelColor=black&color=grey)
