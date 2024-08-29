@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - Programming languages 👨‍💻 : 
 ![Python](https://img.shields.io/badge/python-3?style=flat&logo=python&logoColor=blue&labelColor=black&color=grey)
 ![Javascript](https://img.shields.io/badge/Javascript-1?style=flat&logo=javascript&logoColor=yellow&labelColor=black&color=grey)
+![SQL](https://img.shields.io/badge/SQL-1?logo=sqlite&logoColor=blue&labelColor=black&color=grey)
 ![Html](https://img.shields.io/badge/HTML-5?style=flat&logo=html5&logoColor=orange&labelColor=black&color=blue)
 ![Css](https://img.shields.io/badge/CSS-3?style=flat&logo=css3&logoColor=lightblue&labelColor=black&color=blue)
 - Frontend 🐥 : 
@@ -40,3 +41,4 @@ Here are some ideas to get you started:
 - Other Tools 🔨 : 
 ![GitHub](https://img.shields.io/badge/github-1?style=flat&logo=github&labelColor=black&color=darkblue)
 ![Git](https://img.shields.io/badge/git-1?style=flat&logo=git&labelColor=black&color=darkblue)
+![VSCode](https://img.shields.io/badge/VSCode-1?color=grey)
