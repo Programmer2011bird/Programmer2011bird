@@ -42,3 +42,15 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/github-1?style=flat&logo=github&labelColor=black&color=darkblue)
 ![Git](https://img.shields.io/badge/git-1?style=flat&logo=git&labelColor=black&color=darkblue)
 ![VSCode](https://img.shields.io/badge/VSCode-1?color=grey)
+
+<table>
+  <tr>
+      <td align=center>
+        <img style="height:10pc;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer2011bird&layout=donut&theme=nightowl">
+      </td>
+  </tr>
+  <tr>
+    <td align=center>
+      <img src="https://github-readme-activity-graph.vercel.app/graph/?username=Programmer2011bird&theme=vue&bg_color=363636"></td>
+  </tr>
+</table>
