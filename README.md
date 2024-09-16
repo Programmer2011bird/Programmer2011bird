@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
       <td align=center>
-        <img style="height:10pc;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer2011bird&layout=donut&theme=nightowl">
+        <img style="height:250px; width:1000px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer2011bird&layout=donut&theme=nightowl">
       </td>
   </tr>
   <tr>
